@@ -1,0 +1,32 @@
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+    z-index: 2;
+    border-bottom: solid 1px aliceblue;
+    background-color: aliceblue;
+    margin-bottom: 10px;
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 15px;
+    /* position: fixed;*/
+}
+.mainbody{   
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    background-color: aliceblue;
+    color: rgb(138, 114, 114);
+    margin-bottom: 10px;
+}

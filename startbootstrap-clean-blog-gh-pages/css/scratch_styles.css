@@ -1,0 +1,36 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(138, 114, 114);
+}
+
+li {
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.homebkg {
+    /* background-image: url(../assets/img/BlindD8ProvoLogo.jpg); */
+    background-color: rgb(138, 114, 114);
+}
+.magic {
+    text-decoration: none;
+    
+}
+.magic:visited{
+    color: rgb(138, 114, 114);
+}
+.magic:hover{
+    text-decoration: underline;
+    font-size: medium;
+    color:black;
+}
+.backtotop
+{
+    text-decoration: none;
+    color: rgb(138, 114, 114);
+}
+.backtotop:hover{
+    text-decoration: underline;
+    font-size: medium;
+    color:rgb (138, 114, 114);
+}
